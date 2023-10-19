@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断奇数并写出1-100的奇数", "判断奇数并写出1-100的奇数.vcxproj", "{5EB67644-A4BF-420F-9413-EFBAAE63C558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Debug|x64.ActiveCfg = Debug|x64
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Debug|x64.Build.0 = Debug|x64
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Debug|x86.Build.0 = Debug|Win32
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Release|x64.ActiveCfg = Release|x64
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Release|x64.Build.0 = Release|x64
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Release|x86.ActiveCfg = Release|Win32
+		{5EB67644-A4BF-420F-9413-EFBAAE63C558}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FC0C1C-7F4F-4780-A700-577050EA68FC}
+	EndGlobalSection
+EndGlobal
