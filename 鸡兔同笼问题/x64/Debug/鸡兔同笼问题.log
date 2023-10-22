@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\c语言\鸡兔同笼问题\源.cpp(8,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\c语言\鸡兔同笼问题\源.cpp(9,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  鸡兔同笼问题.vcxproj -> C:\c语言\鸡兔同笼问题\x64\Debug\鸡兔同笼问题.exe
